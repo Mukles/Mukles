@@ -25,18 +25,19 @@ As a Frontend Developer at LetsDunch, I developed and maintained UI components u
 
 ### 🌟 A Few Facts About Me  
 📌 **Competitive Programmer:** [Beecrowd Profile](https://www.beecrowd.com/@mukles)  
-📌 **Portfolio:** [tamannabithy.com](https://www.mukles.vercel.app)  
+📌 **Portfolio:** [mukles.vercel.app](https://www.mukles.vercel.app)  
 📌 **Resume:** [Check it out](#)  
 
 ### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukles&layout=compact&theme=radical)  
+<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukles&show_icons=true&theme=radical)  
 
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukles-hossen-454991227/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mukles.116476)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mukles)  
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukles-hossen-454991227)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mukles.116476)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mukles)
 
 <br/>
 <!-- GitHub Profile Views Counter -->

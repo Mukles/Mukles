@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | JavaScript | Next.js | React.js | Node.js**  
 
 
-With 1+ years of industry experience, I've worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I'm proficient with various JavaScript frameworks, and my main interests lie in full-stack web development.
+With 2+ years of industry experience, I've worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I'm proficient with various JavaScript frameworks, and my main interests lie in full-stack web development.
 
 As a Frontend Developer at LetsDunch, I developed and maintained UI components using React.js and Tailwind CSS. I collaborated with cross-functional teams to integrate APIs, implemented features like meeting booking and expert profile updates, and consistently delivered bug fixes and enhancements.
 
@@ -25,8 +25,8 @@ As a Frontend Developer at LetsDunch, I developed and maintained UI components u
 
 ### 🌟 A Few Facts About Me  
 📌 **Competitive Programmer:** [Beecrowd Profile](https://www.beecrowd.com/@mukles)  
-📌 **Portfolio:** [mukles.vercel.app](https://www.mukles.vercel.app)  
-📌 **Resume:** [Check it out](#)  
+📌 **Portfolio:** [mukles.vercel.app](https://www.tfmukles.vercel.app)  
+📌 **Resume:** [Check it out](https://drive.google.com/file/d/1j_2PgME5xOP-zfOGiNRqej2qLFLW5bPk/view?usp=sharing)  
 
 ### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukles&layout=compact&theme=radical)  
@@ -35,7 +35,7 @@ As a Frontend Developer at LetsDunch, I developed and maintained UI components u
 
 ### 📬 Connect with Me  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukles-hossen-454991227)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukles)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mukles.116476)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mukles)
 
